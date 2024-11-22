@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable home
+drawable ic_dt
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnSend
+id main
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string channel_name
+string moTa
+style Base.Theme.Slide6
+style Theme.Slide6
+xml backup_rules
+xml data_extraction_rules

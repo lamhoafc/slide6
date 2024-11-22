@@ -1,0 +1,2 @@
+izisluu.fpoly.slide6.test:style/WhiteBackgroundTheme = 0x7f010001
+izisluu.fpoly.slide6.test:style/WhiteBackgroundDialogTheme = 0x7f010000

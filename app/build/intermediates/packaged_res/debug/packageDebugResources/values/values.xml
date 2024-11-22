@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Slide6</string>
+    <string name="channel_name">FPTPOLYTECHNIC</string>
+    <string name="moTa">TrinhVanBo</string>
+    <style name="Base.Theme.Slide6" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Slide6" parent="Base.Theme.Slide6"/>
+</resources>
